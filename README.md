@@ -1,28 +1,20 @@
-# YMT-PROD — Site professionnel v2
+# YMT-PROD — Site Web officiel
 
-Site vitrine statique premium, prêt pour GitHub Pages.
+Version premium basée sur la nouvelle identité officielle YMT-PROD :
+- symbole ∞
+- bleu / rouge / noir / blanc
+- signature « RÉALISONS ENSEMBLE »
+- baseline « Des idées au réel, sans limites »
 
-### Inclus
-- Accueil premium noir/or
-- Services
-- Présentation du studio
-- Portfolio avec les visuels YMT-PROD créés
-- Méthode de travail
-- Contact / WhatsApp / e-mail
-- Facebook, YouTube et Instagram
-- Responsive mobile
-- Animations légères
-- HTML/CSS/JS sans serveur
-
-### Publication
+## GitHub Pages
 1. Créer un dépôt GitHub, par exemple `ymt-prod`.
-2. Envoyer tout le contenu du dossier.
-3. GitHub → Settings → Pages.
-4. Source : Deploy from a branch → `main` → `/ (root)`.
+2. Envoyer tout le contenu de ce dossier.
+3. Settings → Pages.
+4. Deploy from a branch → `main` → `/ (root)`.
 5. Enregistrer.
 
-### À remplacer
-- Le lien WhatsApp `https://wa.me/` par le numéro de YMT-PROD.
-- `contact@ymt-prod.com` par l'e-mail réel.
-- Les liens sociaux si nécessaire.
-- Les projets du portfolio par les réalisations réelles.
+## À modifier
+- Remplacer `https://wa.me/` par le vrai lien WhatsApp.
+- Remplacer `contact@ymt-prod.com` par l'e-mail réel.
+- Ajouter les vraies réalisations dans la section Portfolio.
+- Les liens Facebook, YouTube et Instagram sont déjà configurés.
